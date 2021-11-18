@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59a9d7f4-6254-4057-9702-4a1d4ce0da02" name="Default Changelist" comment="" />
+    <list default="true" id="59a9d7f4-6254-4057-9702-4a1d4ce0da02" name="Default Changelist" comment="initializing project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,22 +44,30 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initializing project" />
+    <option name="LAST_COMMIT_MESSAGE" value="initializing project" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="808" y="392" key="Github.ShareDialog" timestamp="1637221165937">
+    <state x="808" y="392" key="Github.ShareDialog" timestamp="1637221232794">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="808" y="392" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1637221165937" />
-    <state x="615" y="153" key="Github.UntrackedFilesDialog" timestamp="1637220981538">
+    <state x="808" y="392" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1637221232794" />
+    <state x="615" y="153" key="Github.UntrackedFilesDialog" timestamp="1637221239648">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="615" y="153" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1637220981538" />
+    <state x="615" y="153" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1637221239648" />
     <state x="344" y="0" key="SettingsEditor" timestamp="1637221204689">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="344" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1637221204689" />
-    <state x="674" y="399" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1637220996794">
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1637221509662">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="674" y="399" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1637220996794" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1637221509662" />
+    <state x="674" y="399" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1637221266097">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="674" y="399" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1637221266097" />
   </component>
 </project>
