@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59a9d7f4-6254-4057-9702-4a1d4ce0da02" name="Default Changelist" comment="initializing project" />
+    <list default="true" id="59a9d7f4-6254-4057-9702-4a1d4ce0da02" name="Default Changelist" comment="initializing project">
+      <change afterPath="$PROJECT_DIR$/explan.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
