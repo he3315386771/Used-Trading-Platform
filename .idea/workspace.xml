@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59a9d7f4-6254-4057-9702-4a1d4ce0da02" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="03f75858-d85f-40d7-8bd0-b00cfed5867a" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files\Apache\maven-repository" />
+        <option name="mavenHome" value="D:\Program Files\Apache\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Program Files\Apache\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="215B2SkkdRHtCW6Pgug1WbWYiCY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="808" y="392" key="Github.ShareDialog" timestamp="1637221165937">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="808" y="392" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1637221165937" />
+    <state x="615" y="153" key="Github.UntrackedFilesDialog" timestamp="1637220981538">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="615" y="153" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1637220981538" />
+    <state x="344" y="0" key="SettingsEditor" timestamp="1637221204689">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="344" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1637221204689" />
+    <state x="674" y="399" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1637220996794">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="674" y="399" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1637220996794" />
+  </component>
+</project>
